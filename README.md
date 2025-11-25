@@ -19,6 +19,7 @@ A Simple calculator built with HTML,CSS,JavaScript.
 Safalta-2007
 
 #Calculator
-"C:\Users\safal\OneDrive\Pictures\Screenshots\calculator.png"
+<img width="534" height="704" alt="calculator" src="https://github.com/user-attachments/assets/f0deaaf5-37c3-4863-bd44-3721cdc22c76" />
+
 
 CLICK HERE TO USE CALCULATOR-https://github.com/Safalta-2007/Calculator/settings/pages
